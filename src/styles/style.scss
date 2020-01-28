@@ -18,19 +18,19 @@ div {
   }
 
 .has-bg-img {
-  background: url('../imgs/hero-bckgrd.jpg') center; 
+  background: url('/src/imgs/hero-bckgrd.jpg') center; 
   background-size: cover;
   // background: url(../imgs/hero-bckgrd.jpg);
   }
 
 .has-lg-img {
-  background: url('../imgs/events-img.png') center;
+  background: url('/src/imgs/events-img.png') center;
   background-size: cover;
 
 }
 
 .is-large {
-  background: url('../imgs/events-img.png') center;
+  background: url('/src/imgs/events-img.png') center;
   background-size: cover;
 }
 
