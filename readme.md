@@ -12,6 +12,35 @@ Visit the site here - [A + L](https://aichi-chang.github.io/Project-2/), or you 
 ![ezgif com-video-to-gif](https://media.giphy.com/media/dYs9xdL2sF4x3c4DYR/giphy.gif)
 
 
+### :rocket: Get Started ###
+
+* Clone or download the repo
+* `npm init`
+* `npm run serve` to start
+
+
+### 📝 Brief ###
+
+### 🕹 Technologies used ###
+
+### ✔️ Approach Taken ###
+
+#### Project plan
+
+#### Back-end
+
+#### Front-end
+
+### 🤗 Wins ###
+
+
+### 🧐 Chanllenges ###
+
+### 🔮 Future features ###
+
+
+
+
 Challenges:
 This is an instant duo group project after just learning React for a week. The challenge is to apply React straight away on this project, as there are a few new concepts than JavaScrip, like components, state and props… The second challenge is working in a team with another developer(we were teamed up randomly by the teaching group) The communication definitely plays an important part in the work.
 
