@@ -63,7 +63,7 @@ The Events page will render all events and by clicking one of them, users will b
   }
 ```
 
-- Due to the API has a limitation which is only showing 20 results per page, we had to pull out the fetch function and call everytime when the user clicks the page number. This is to make the second page to load extra results.
+- Due to the API has a limitation which is only showing 20 results per page, we had to pull out the fetch function and call every time when the user clicks the page number. This is to make the second page to load extra results.
 
 ```js
   page1(e) {
@@ -88,7 +88,7 @@ The Events page will render all events and by clicking one of them, users will b
     <div className="button is-white has-text-centered" onClick={(e) => this.page2(e)}>2</div>
   </div>
 ```
-- For the single event page, we added the map feature using Uber's React-Map-GL(This is a suite of React components for Mapbox GL JS). By transfering the longitude and the latitude provides by the API, we will be able to pin down the event location on the map and show a popup info when users clicking it.
+- For the single event page, we added the map feature using Uber's React-Map-GL(This is a suite of React components for Mapbox GL JS). By transferring the longitude and the latitude provides by the API, we will be able to pin down the event location on the map and show popup info when users clicking it.
 ```js
   _renderMarker = () => {
     const { event } = this.props
@@ -129,19 +129,19 @@ The Events page will render all events and by clicking one of them, users will b
 ```
 
 ### 🤗 Wins ###
-- Practiced how to retrieve datas from a API, and understand better how API works
-- Sucessfully added React Mapbox to the project
+- Practiced how to retrieve data from an API, and understand better how API works
+- Successfully added React Mapbox to the project
 - Get more used to writing React, JavaScript and CSS
-- I learned a lot pair coding with my teammate. We have had a fun time working together.
+- I learned a lot from pair coding with my teammate. We have had a fun time working together.
 
 ### 🧐 Chanllenges ###
 
-- We have only learned React for one week and half before assigning this project. While working on the project, I had to go on to React's official website, read, learn, and write the same time. It's the same experience for the Mapbox as well. It was challenging but I'm happy that I have completed.
+- We have only learned React for one week and a half before assigning this project. While working on the project, I had to go through React documentation, read, learn, and code at the same time. It's the same experience for the Mapbox as well. It was challenging but I'm happy that I have completed.
 - Working in a team with another developer(we were teamed up randomly by the teaching group) The communication definitely plays an important role in the work.
 
 ### 🔮 Future features ###
 
 - Add comment feature
-- Add reigster and login feature
-- Login user will be able to purchase tickets on our app
+- Add register and login feature
+- Logged in users will be able to purchase tickets on our app, and the tickets will be saved as a QR code in the users' device.
 
