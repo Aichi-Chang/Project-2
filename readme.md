@@ -129,21 +129,19 @@ The Events page will render all events and by clicking one of them, users will b
 ```
 
 ### 🤗 Wins ###
-
+- Practiced how to retrieve datas from a API, and understand better how API works
+- Sucessfully added React Mapbox to the project
+- Get more used to writing React, JavaScript and CSS
+- I learned a lot pair coding with my teammate. We have had a fun time working together.
 
 ### 🧐 Chanllenges ###
 
+- We have only learned React for one week and half before assigning this project. While working on the project, I had to go on to React's official website, read, learn, and write the same time. It's the same experience for the Mapbox as well. It was challenging but I'm happy that I have completed.
+- Working in a team with another developer(we were teamed up randomly by the teaching group) The communication definitely plays an important role in the work.
+
 ### 🔮 Future features ###
 
+- Add comment feature
+- Add reigster and login feature
+- Login user will be able to purchase tickets on our app
 
-
-
-Challenges:
-This is an instant duo group project after just learning React for a week. The challenge is to apply React straight away on this project, as there are a few new concepts than JavaScrip, like components, state and props… The second challenge is working in a team with another developer(we were teamed up randomly by the teaching group) The communication definitely plays an important part in the work.
-
-Wins:
-Found a great external API for the project
-Applied React MapBox into the APP
-Understand a high-level of React
-Got more used to JavaScript and CSS
-Great teamwork
