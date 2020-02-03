@@ -23,6 +23,7 @@ Visit the site here - [A + L](https://aichi-chang.github.io/SEI-Project-2/#/), o
 
 * **Consume a public API** – this could be anything but it must make sense for your project.
 * **Have several components** - At least one classical and one functional.
+* **Include wireframes** - that you designed before building the app.
 * **The app should include a router** - with several "pages".
 * **Have a visually impressive design**
 * **Be deployed online** and accessible to the public.
@@ -44,7 +45,7 @@ Visit the site here - [A + L](https://aichi-chang.github.io/SEI-Project-2/#/), o
 
 ### ✔️ Approach Taken ###
 
-#### Project plan
+#### Wireframes
 
 
 
