@@ -29,22 +29,24 @@ Visit the site here - [A + L](https://aichi-chang.github.io/SEI-Project-2/#/), o
 
 ### 🕹 Technologies used ###
 
-HTML5
-CSS3
-JavaScript (ES6)
-React
-Mapbox
-Webpack
-Bulma
-Babel
-Insomnia
-Git
-GitHub
+* HTML5
+* CSS3
+* JavaScript (ES6)
+* React
+* Mapbox
+* Webpack
+* Bulma
+* Babel
+* Insomnia
+* Git
+* GitHub
 
 
 ### ✔️ Approach Taken ###
 
 #### Project plan
+
+
 
 #### Back-end
 
