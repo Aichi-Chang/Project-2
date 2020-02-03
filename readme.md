@@ -46,7 +46,7 @@ Visit the site here - [A + L](https://aichi-chang.github.io/SEI-Project-2/#/), o
 ### ✔️ Approach Taken ###
 
 #### Wireframes
-<img src='https://github.com/Aichi-Chang/SEI-Project-2/blob/master/src/imgs/Screenshot%202020-02-03%20at%209.39.07%20pm.png?raw=true'>
+<img src='https://github.com/Aichi-Chang/SEI-Project-2/blob/master/src/imgs/Screenshot%202020-02-03%20at%209.39.07%20pm.png?raw=true' width='50%'>
 
 
 #### Back-end
