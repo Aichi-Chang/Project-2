@@ -6,7 +6,7 @@ The second project of the software engineering immersive course at GA London is 
 
 A + L is the initial of the team members for this project. It also stands for art and life. This is a platform where users can search for all kinds of exhibitions or lifestyle event info. They will be able to check the event location or get redirected to the actual event page from the map. The external API used for this project is from [The LIST](https://api.list.co.uk/).
 
-Visit the site here - [A + L](https://aichi-chang.github.io/Project-2/), or you can also find the GitHub repo - [GitHub](https://github.com/Aichi-Chang/Project-2)
+Visit the site here - [A + L](https://aichi-chang.github.io/SEI-Project-2/#/), or you can also find the GitHub repo - [GitHub](https://github.com/Aichi-Chang/SEI-Project-2)
 
 #### Preview
 ![ezgif com-video-to-gif](https://media.giphy.com/media/dYs9xdL2sF4x3c4DYR/giphy.gif)
@@ -21,7 +21,26 @@ Visit the site here - [A + L](https://aichi-chang.github.io/Project-2/), or you 
 
 ### 📝 Brief ###
 
+* **Consume a public API** – this could be anything but it must make sense for your project.
+* **Have several components** - At least one classical and one functional.
+* **The app should include a router** - with several "pages".
+* **Have a visually impressive design**
+* **Be deployed online** and accessible to the public.
+
 ### 🕹 Technologies used ###
+
+HTML5
+CSS3
+JavaScript (ES6)
+React
+Mapbox
+Webpack
+Bulma
+Babel
+Insomnia
+Git
+GitHub
+
 
 ### ✔️ Approach Taken ###
 
