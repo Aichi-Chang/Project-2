@@ -15,7 +15,7 @@ Visit the site here - [A + L](https://aichi-chang.github.io/SEI-Project-2/#/), o
 ### :rocket: Get Started ###
 
 * Clone or download the repo
-* `npm init`
+* `npm install`
 * `npm run serve` to start
 
 
